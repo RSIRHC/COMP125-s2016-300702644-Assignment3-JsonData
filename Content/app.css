@@ -1,0 +1,20 @@
+/*CSS codes go here */
+.firstSentence {
+    color: darkblue; 
+    font-weight: bold; 
+    font-size: 1.1em; 
+}
+
+.col-sm-4 {
+    padding: 50px 30px 50px 80px;
+}
+
+a {
+    font-weight: bold; 
+    color: black; 
+    text-decoration: none;
+}
+
+body {
+    background-color: lightgray;
+}
